@@ -17,4 +17,4 @@ High-Risk Areas: Certain intersections are frequent hotspots for pedestrian and 
 Recommendations:
 Infrastructure Enhancements: Implement better lighting, protected bike lanes, and advanced pedestrian crossings in high-risk areas.
 Enforcement: Increase traffic law enforcement to protect all road users.
-This project highlighted the vital role of data science in public safety and provided actionable insights to make NYC streets safer.
+This project highlighted the vital role of data science in public safety and provided actionable insights to make NYC streets safer.    
