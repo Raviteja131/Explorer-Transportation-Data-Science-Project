@@ -1,7 +1,7 @@
 # Explorer-Transportation-Data-Science-Project
 
 Project Overview:
-We analyzed over 10 million records from the Motor Vehicle Collisions - Crashes dataset to enhance safety for pedestrians, cyclists, and motorists across New York City's boroughs.
+We analyzed over 10 million records from the Motor Vehicle Collisions - Crashes dataset to enhance safety for pedestrians, cyclists, and motorists across New York City's boroughs.      
 
 Tools & Methodology:
 Data Analysis: Utilized Python libraries—Pandas for data manipulation, Matplotlib and Seaborn for visualizations, and Folium for interactive maps.
